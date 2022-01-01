@@ -3,4 +3,5 @@ This work demonstartes supervised learning process with a Artificial Neural Netw
 
 Data source : https://www.nasdaq.com/market-activity/stocks/screener
 
-You may find the detailed description about the model in the report of this project .
+You may find the detailed description about the model in the Report.pdf file  of this repository.
+ 
