@@ -67,7 +67,7 @@ print (ranking)
 
 
 if __name__ == '__main__':
-	main(sys.argv[1])
+	main(sys.argv[1]) # to run file give the input folder path as the 2nd command line argument , 1st element from the array of arguments will be the file name itself
 cols = data['high', 'open', 'low', 'close', 'volume', 'adj_close']
 
 file_dataframe = normalize(data, cols)
